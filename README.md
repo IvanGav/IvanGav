@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IvanGav
+- 👀 I’m interested in things
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on nothing for now
+- 📫 ivan.gavby@gmail.com
