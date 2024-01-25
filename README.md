@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IvanGav
-- 👀 I’m interested in things
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing for now
+- 👋 Hi, I'm @IvanGav
+- 👀 I'm interested in small to medium projects with interesting ideas
+- 🌱 I'm currently learning C++, Rust, Kotlin
+- 🎓 I'm 2nd year CS major
 - 📫 ivan.gavby@gmail.com
