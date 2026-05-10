@@ -1,5 +1,2 @@
-- 👋 Hi, I'm @IvanGav
-- 👀 I'm interested in small to medium projects with interesting ideas
-- 🌱 I'm currently learning C++, Rust, Kotlin
-- 🎓 I'm 4nd year CS major
-- 📫 ivan.gavby@gmail.com
+C++, Rust, Kotlin
+ivan.gavby@gmail.com
